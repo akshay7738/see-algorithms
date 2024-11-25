@@ -12,7 +12,7 @@
         "graphql": "^16.2.0",
         "jquery": "^3.4.1",
         "lodash.debounce": "^4.0.8",
-        "node-sass": "^4.14.1",
+        "node-sass": "^7.0.0",
         "react": "^16.12.0",
         "react-dom": "^16.12.0",
         "react-form-decorator": "^0.4.1",
